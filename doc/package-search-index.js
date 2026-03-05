@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"Block"},{"l":"Main"},{"l":"MiniMazeGame"},{"l":"MiniMemoryGame"},{"l":"MiniPatternGame"},{"l":"ModelScore"},{"l":"PlayerInfo"}];updateSearchResults();
